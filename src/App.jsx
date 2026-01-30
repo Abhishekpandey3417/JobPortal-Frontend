@@ -1,6 +1,4 @@
-
-
-/*import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Navbar from './components/shared/Navbar'
 import Login from './components/auth/Login'
 import Signup from './components/auth/Signup'
@@ -83,9 +81,9 @@ function App() {
   )
 }
 
-export default App*/
+export default App
 
-import { createBrowserRouter, RouterProvider } from "react-router-dom"
+/*import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import { lazy, Suspense } from "react"
 import ProtectedRoute from "./components/admin/ProtectedRoute"
 
@@ -193,6 +191,6 @@ function App() {
   )
 }
 
-export default App
+export default App*/
 
 
