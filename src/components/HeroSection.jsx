@@ -1,4 +1,4 @@
-import { Button } from "@mui/material";
+import { Button } from "./ui/button";
 import { Search } from "lucide-react";
 import React from "react";
 const HeroSection = () => {
